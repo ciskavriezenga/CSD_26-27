@@ -2,11 +2,11 @@
 	path = JUCE
 	url = https://github.com/juce-framework/JUCE.git
 [submodule "csd2c/PP_C_Focus/JUCE"]
-	path = csd2c/PP_C_Focus/JUCE
+	path = csd2c/25-26/PP_C_Focus/JUCE
 	url = https://github.com/juce-framework/JUCE.git
 [submodule "csd2c/Plugin_Focus/JUCE"]
-	path = csd2c/Plugin_Focus/JUCE
+	path = csd2c/25-26/Plugin_Focus/JUCE
 	url = https://github.com/juce-framework/JUCE.git
 [submodule "csd2c/codeclinics/cc7/OpenLadderFilter"]
-	path = csd2c/codeclinics/cc7/OpenLadderFilter
+	path = csd2c/25-26/codeclinics/cc7/OpenLadderFilter
 	url = https://github.com/DaanKS/OpenLadderFilter.git
