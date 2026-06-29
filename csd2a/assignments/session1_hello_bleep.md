@@ -55,7 +55,7 @@ _Ben je nog niet bekend met het werken in de terminal, dan is dit een goede bron
 python helloWorld.py
 ```
 
-## 3. Hello you
+## 4. Hello you
 ▶️ Breid je `helloWorld.py` script zo uit dat het de gebruiker diens naam vraagt en deze naam vervolgens op de command line gebruikt in een begroeting.
 - _Voorbeeld flow_
   - De gebruiker vult “Peter” in op de command line
@@ -67,7 +67,7 @@ python helloWorld.py
 
 ▶️ Run wederom je script. Of nog beter, doe dit na elke aanpassing van je script, bijvoorbeeld na het toevoegen van de Python `input` functie. Na kleine stappen je script runnen is een goede codeer flow. Je weet dan namelijk precies wat je in de laatste stap hebt gewijzigd. Mocht er zich een bug voordoen, dan is de oorzaak eenvoudig te herleiden.
 
-## 3. Hello Bleep
+## 5. Hello Bleep
 In deze opdracht maak je een klinkend 'klinkend' python script; bij het runnen van dit script wordt er een sample afgespeeld. Lees alvorens daar aan te beginnen eerst onderstaande informatie over het werken met packages.
 
 ### Packages
@@ -98,11 +98,12 @@ Omdat het kan voorkomen dat er voor verschillende Python scripts verschillende v
 
 ▶️ f. Navigeer naar `csd\csd2a\sessie1` (`cd sessie1`) en creëer een Python file genaamd `helloBleep.py` (`touch helloBleep.py`)
 
-▶️ g. Schrijf een in je `helloBleep.py` file een 'klinkend' python script; bij het runnen van dit script wordt er een sample afgespeeld. Hoe? Bekijk de informatie op de pygame website:
+▶️ g. Schrijf een in je `helloBleep.py` file een 'klinkend' python script; bij het runnen van dit script wordt er een sample afgespeeld.  Hoe? Bekijk de informatie op de pygame website:
 - https://www.pygame.org/docs/ met een quick start script om mee te beginnen
 - https://www.pygame.org/docs/ref/music.html met de functies voor het afspelen van audio op een rij.
+_Run geregeld je script tijdens het werken aan je code!_
 
-## [OPTIONAL] 4. Python sample player
+## [OPTIONAL] 6. Python sample player
 _(de [OPTIONAL] tag geeft aan dat de opdracht optioneel is, het is een verdiepingsopdracht)_
 Breid je `helloBleep.py` script uit met extra functionaliteiten, bijvoorbeeld:
 - vraag aan de gebruiker hoe vaak het geluid afgespeeld moet worden en speel vervolgens meerdere

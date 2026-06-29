@@ -1,5 +1,21 @@
+"""
+De _variable types int, float, str, bool_, etc... zijn immutable types.
+Waar je bijv. een list (mutable type) kunt aanpassen, kun je een int variable
+niet aanpassen. Bij het _assignen_ van een andere waarde wordt er een
+nieuw object geconstrueerd bijv.:
+"""
+a = 10
+b = a # b references 10 as well
+a = 20 # a new object is created to which a references
 
-
+"""
+Zo ook bij een functie, wanneer je de parameter aanpast wordt er een
+nieuw object (dus een nieuwe int, float, str, bool etc.) aangemaakt.
+Je oorspronkelijke object dat je als variable mee gaf aan de functie
+blijft dus ongewijzigd. Wanneer je echter een list meegeeft aan een functie,
+kan binnen de functie deze list daadwerkelijk worden aangepast. De list die je
+mee gaf is dan daarna dus aangepast.
+"""
 # when passing a immutable like a number to a function
 # An adaptation of that variable inside the function
 # results in a new object.

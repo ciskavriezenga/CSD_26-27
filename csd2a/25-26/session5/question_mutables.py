@@ -1,5 +1,3 @@
-
-
 # when passing a immutable like a number to a function
 # An adaptation of that variable inside the function
 # results in a new object.

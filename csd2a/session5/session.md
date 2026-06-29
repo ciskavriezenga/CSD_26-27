@@ -25,7 +25,7 @@ NOTE: Do not worry if you still find Git a hurdle. Since working with git is new
 <img src="program_flow.png" alt="isolated" width="500"/>
 
 - Eindopdracht, het omzetten van stappen / pseudo code naar python code
-  - het generatie dele
+  - het generatie deel
   - functies
   - dictionaries
 
@@ -33,7 +33,7 @@ NOTE: Do not worry if you still find Git a hurdle. Since working with git is new
 
 ## Content
 ### Dictionary recap
-  - csd2a/slides/Sessie_4-Events.pdf _@D: for now, skip the other data structures slides_
+  - csd2a/slides/Sessie_4-Events.pdf
 
   - **Example 4c** Demonstrates the usage of a dictionary for an event. By using dictionaries, you can combine the timestamp, reference to a sample, duration and other values in one data structure (a data structure refers to a type of container, like a list, a set, a queue, a dictionary). Using a dictionary for an event instead of a list allows you to retrieve the values by using keys. This improves readability, see the example below.
 
@@ -54,7 +54,7 @@ NOTE: Do not worry if you still find Git a hurdle. Since working with git is new
   timestamp = event["timestamp"]
   ```
   - **Example 4d** Example demonstrating how to sort a list with dictionaries
-  _@D: short in time? skip this!_
+  
 
   - **Example 4e** Contains an introduction to dictionaries - intended for self-study, **see opdrachten.md**
   - - **Example 4f** Contains an example where a function creates and returns a dictionary  - intended for self-study, **see opdrachten.md**

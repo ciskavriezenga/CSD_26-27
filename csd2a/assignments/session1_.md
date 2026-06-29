@@ -1,7 +1,7 @@
 # Sessie 1 - Voorbereiding vooraf aan de volgende keer
 
 
-_**Let op: al het onderstaande hoort bij week 1**_
+_**Let op: AL HET ONDERSTAANDE hoort bij week 1**_
 
 - Neem de grondig (!) eindopdracht door, zie _csd2a/main_assignment/Eindopdracht_CSD2a_Irregular_beat_generator.pdf_.
 <br/><br/>
@@ -25,5 +25,3 @@ _**Let op: al het onderstaande hoort bij week 1**_
   - De basis van je strategie uitgewerkt in pseudo code _zie voorbeelden pseudo code in csd2a/main_assignment/examples/_
 
 <br/><br/>
-- Neem de sessie1 handouts door, zie folder handouts/. Handig om HO 2 en 3 tijdens het practicum door te nemen ivm de optie om hulp te krijgen indien je vastloop.
-  - Om te testen of pygame werkt kun je csd2a/session1/hello_bliep.py runnen
