@@ -2,7 +2,7 @@
 
 _**Let op: al het onderstaande hoort bij week 2, dit bouwt voort op de opdrachten uit week 1.**_
 
-- **[ARRANGE]**
+- **[INSTALL]**
   Lees en voer alle opdrachten uit in `session2_git.pdf`. Daarmee installeer je git en regel je een lokale en online repository waarin je de rest van dit jaar werkt.
 
 - **[DESIGN]** Vervolg ritme generatie strategie
@@ -16,7 +16,7 @@ _**Let op: al het onderstaande hoort bij week 2, dit bouwt voort op de opdrachte
   - **[READ]** Maak bij in ieder geval één van de twee relatief eenvoudige ritmes in de csd2a/session2/relative_simple_examples map een flow chart
   - **[READ]** **[OPTIONAL]** Lees _(deels) de voorbeelden in csd2a/session2/extended_examples map Het liefst hardop (of in je hoofd hardop) waarbij je per stukje code de werking voorstelt. Wat bij dit laatste helpt is het uitvoeren van de code op papier.
 
-  - **[WRITE]** kopieer de code uit de csd2a/session1/hello_bliep.py naar je eigen repository en speel de sample meerdere keren af. Werk dit in ieder geval op de volgende twee manieren uit:
+  - **[WRITE]** kopieer de code uit de csd2a/session1/hello_bleep.py naar je eigen repository (`sessie2` map) en speel de sample meerdere keren af. Werk dit in ieder geval op de volgende twee manieren uit:
     - met een while loop (zie https://www.w3schools.com/python/python_while_loops.asp)
     - met een forloop en range (zie **The range() Function** op https://www.w3schools.com/python/python_for_loops.asp)  
     <br/><br/>

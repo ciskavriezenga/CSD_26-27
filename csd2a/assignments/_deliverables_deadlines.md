@@ -2,7 +2,7 @@
 
 
 ##  Het ontwerp van de begoogde generatie strategie
-**_DEADLINE: practicum week 4_**
+**_DEADLINE: practicum week 3_**
 
   Documentatie van het ontwerp van de generatie strategie die wilt toepassen in je uitwerking van de eindopdracht.  Deze documentatie richt zich enkel op het het generatie deel, niet het afspeel deel en bevat:
 
@@ -18,11 +18,11 @@
 
 
 ##  Presentatie van random beat generator
-**_DEADLINE: theorie week 7_**
+**_DEADLINE: theorie week 6_**
 
 _Disclaimer: enkel de mogelijkheid om te presenteren wanneer het werkt_
 
-- **Presentatie**, van **4 minuten**:
+- **Presentatie**, van **4 á 5 minuten**:
   - 2 minuut - live demo werking programma
   _(van te voren oefenen en timen)_
     - Eén goede user flow

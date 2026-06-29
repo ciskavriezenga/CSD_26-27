@@ -3,10 +3,6 @@
 **[WRITE] Finalizen eigen generatie strategie & UI**
 
 **[DESIGN] Eindpresentatie**
-Bereid een eindpresentatie voor van max. vijf minuten met daarin:
- - demonstratie (meerdere flows, ook error flow met verkeerde
-input) (2 min.)
--  overzicht van je strategie, ontwerp en structuur (1.5 min.)
-- reflectie & take-aways (1.5 min.)
+Bereid een eindpresentatie voor van max. vijf minuten. Zie `_deliverables_dealines.md` voor de verwachte inhoud van de presentatie.  
 
-_Er is weinig tijd om te presenteren. Oefen daarom je demonstratie van te voren. Zorg dat je verder beknopt kunt presenteren, door zowel voor het overzicht van je je strategy, ontwerp en structuur als van je reflectie & take-aways beknopte bullets op een rij te zetten._
+**Let op:** Er is weinig tijd om te presenteren. Oefen daarom je demonstratie van te voren. Zorg dat je verder beknopt kunt presenteren, door de verdere toelichting in beknopte bullets op een rij te zetten.**

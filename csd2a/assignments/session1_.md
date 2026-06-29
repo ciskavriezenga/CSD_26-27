@@ -142,6 +142,7 @@ Omdat het kan voorkomen dat er voor verschillende Python scripts verschillende v
 ▶️ g. Schrijf een in je `helloBleep.py` file een 'klinkend' python script; bij het runnen van dit script wordt er een sample afgespeeld.  Hoe? Bekijk de informatie op de pygame website:
 - https://www.pygame.org/docs/ met een quick start script om mee te beginnen
 - https://www.pygame.org/docs/ref/music.html met de functies voor het afspelen van audio op een rij.
+Lukt het niet? Spiek dan in de csd repository session1 map. 
 _Run geregeld je script tijdens het werken aan je code!_
 
 ### [OPTIONAL] 3.6 Python sample player
