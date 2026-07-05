@@ -43,7 +43,7 @@ Voorwaarden aan de applicatie, de applicatie:
  - ... vangt onjuiste input van de gebruiker af en geeft duidelijke foutmeldingen.
 
  ### Documentatie
-_Per blok gelden andere voorwaarden voor de documentatie, zie de oprdachtbeschrijving en de beoordelingscriteria van het desbetreffende blok._
+_Per blok gelden andere voorwaarden voor de documentatie, zie de opdrachtbeschrijving en de beoordelingscriteria van het desbetreffende blok._
 
 ### Code
 Voorwaarden aan de code; de code is begrijpelijk voor anderen:
