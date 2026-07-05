@@ -61,4 +61,5 @@ Het project kan gepresenteerd worden tijdens de presentatie les van het blok, wa
 De beoordeling wordt gebaseerd op:
 - (25%) de presentatie
 - (75%) documentatie én code
+
 Voor de exacte beoordelingscriteria, zie de beoordelingscriteria van het desbetreffende blok.
