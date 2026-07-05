@@ -22,12 +22,8 @@ Figuur 1. Program flow
 
 ## Voorwaarden eindresultaat
 - De IBG is een command line programma, de interactie met de gebruiker verloopt via de console (a.k.a. terminal), dus zonder GUI.
-- De gegenereerde beats zijn opgebouwd uit drie verschillende geluiden, verdeeld over
-het spectrum: laag, midden en hoog.
-- De beat wordt gegenereerd aan de hand van een algoritme dat rekening houdt met de
-gekozen maatsoort en een logische ritmische onderverdeling van de verschillende
-geluiden. Bovendien wordt een zekere mate van randomness toegepast zodat de
-resulterende beats elke keer anders zijn. Bij de eindpresentatie moet je kunnen verantwoorden hoe je tot dit algoritme gekomen bent en wat de muzikale betekenis ervan is.
+- De gegenereerde beats zijn opgebouwd uit drie verschillende geluiden, verdeeld over het spectrum: laag, midden en hoog.
+- De beat wordt gegenereerd aan de hand van een algoritme dat rekening houdt met de gekozen maatsoort en een logische ritmische onderverdeling van de verschillende geluiden. Bovendien wordt een zekere mate van randomness toegepast zodat de resulterende beats elke keer anders zijn. Bij de eindpresentatie moet je kunnen verantwoorden hoe je tot dit algoritme gekomen bent en wat de muzikale betekenis ervan is.
 - De IBG is in staat om de gegenereerde beat herhaaldelijk af te spelen. Bij de eindpresentatie wordt dezelfde beat minimaal vier maal herhaald.
 - Presenteer het eindresultaat in de zesde sessie van dit blok.
 - Het eindresultaat, documenten en presentatie voldoen aan de algemene randvoorwaarden, zie beoordelingscriteria document.
