@@ -3,7 +3,8 @@
 _**Let op: al het onderstaande hoort bij week 2, dit bouwt voort op de opdrachten uit week 1.**_
 
 - **[INSTALL]**
-  Lees en voer alle opdrachten uit in `session2_git.pdf`. Daarmee installeer je git en regel je een lokale en online repository waarin je de rest van dit jaar werkt.
+  - Lees en voer alle opdrachten uit in `session2_git.pdf`. Daarmee installeer je git en regel je een lokale en online repository waarin je de rest van dit jaar werkt.
+  - Mail een link naar je repo naar V en C.
 
 - **[DESIGN]** Vervolg ritme generatie strategie
   - Scherp je ritme generatie strategie aan op basis van eventuele feedback / andere presentaties _(of switch naar een andere strategie en werk deze eerst uit, kan nu nog)_ en werk de pseudo code op gedetaileerder niveau verder uit.
@@ -14,7 +15,7 @@ _**Let op: al het onderstaande hoort bij week 2, dit bouwt voort op de opdrachte
 - Python
   - **[READ]** Als je nog niet de twee relatief eenvoudige ritmes in de csd2a/session2/relative_simple_examples map gelezen en uitgeplozen hebt: lees deze dan alsnog. Het liefst hardop (of in je hoofd hardop) waarbij je per stukje code de werking voorstelt. Wat bij dit laatste helpt is het uitvoeren van de code op papier.
   - **[READ]** Maak bij in ieder geval één van de twee relatief eenvoudige ritmes in de csd2a/session2/relative_simple_examples map een flow chart
-  - **[READ]** **[OPTIONAL]** Lees _(deels) de voorbeelden in csd2a/session2/extended_examples map Het liefst hardop (of in je hoofd hardop) waarbij je per stukje code de werking voorstelt. Wat bij dit laatste helpt is het uitvoeren van de code op papier.
+  - **[READ]** **[OPTIONAL]** Lees _(deels) de voorbeelden in csd2a/session2/extended_examples map. Het liefst hardop (of in je hoofd hardop) waarbij je per stukje code de werking voorstelt. Wat bij dit laatste helpt is het uitvoeren van de code op papier.
 
   - **[WRITE]** kopieer de code uit de csd2a/session1/hello_bleep.py naar je eigen repository (`sessie2` map) en speel de sample meerdere keren af. Werk dit in ieder geval op de volgende twee manieren uit:
     - met een while loop (zie https://www.w3schools.com/python/python_while_loops.asp)
