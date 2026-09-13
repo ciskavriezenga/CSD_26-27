@@ -1,7 +1,7 @@
 import pygame
 import time
 
-# set values and create lists necessary for playing rhythm
+# hardcoded note_durations and bpm for the sake of the example
 note_durations = [1, 0.5, 1, 0.5, 0.5]
 bpm = 120
 print("note_durations:", note_durations)
@@ -21,30 +21,39 @@ print("time_durations", time_durations)
 pygame.init()
 sample = pygame.mixer.Sound('../assets/plop.wav')
 
-# transform time durations to a sequence of timestamps
-timestamps = []
-t = 0
-for time_dur in time_durations:
-    timestamps.append(t)
-    t = t + time_dur
+# TODO transform time durations to a sequence of timestamps
+timestamp_seq = []
+sum = 0
+# TODO - calculate and append timestamps
 
-print(timestamps)
-# retrieve the first time stamp (if it exist - else exit)
-ts = timestamps.pop(0)
-playing_rhythm = True
-t_start = time.time()
 
-while(playing_rhythm):
-    t_delta = time.time() - t_start
-    sample.play()
+print("timestamp_seq:", timestamp_seq)
 
-# TODO
+
+# retrieve the first time stamp
+if timestamp_seq:
+    ts = timestamp_seq.pop(0)
+else:
+    # list contains no items
+    print("no timestamps --> exit")
+    exit()
+
 
 # store the current time
-# TODO
+time_zero = time.time()
+print("time zero:", time_zero)
 
-# iterate through time sequence and play sample
-# TODO
+playing_rhythm = True
+
+while(playing_rhythm):
+    # TODO calculate t_delta
+
+    # TODO check if we passed the next timestamp,
+    # if so, play sample and fetch new timestamp
+
+    # TODO no new timestamp available, stop while loop
+
+
 
 # wait till last sample is done playing before exit
 time.sleep(time_durations[-1])

@@ -1,6 +1,5 @@
-import simpleaudio as sa
+import pygame
 import time
-
 # expected input:
 # first number: number of note durations
 # from index 1 to index x: note durations
@@ -9,12 +8,34 @@ import time
 
 
 # ___ retrieve all necessary values and lists necessary for playing rhythm ___
-# retrieve note durations and bpm from input
+# use functions: input, float, int, list function append,
+# variables: note_durations, num_notes, bpm
 
 
 
-# load a sample
-sample_plop = sa.WaveObject.from_wave_file("../assets/Plop.wav")
+# TODO retrieve nu notes from input
+
+# TODO retrieve note durations from input
+
+
+# TODO retrieve bpm from input and calculate corresponding quarternote dur. in time
+
+
+# TODO transform note durations to sequence of time durations (sec)
+
+
 
 # ___ play rhythm ___
-sample_plop.play().wait_done()
+# init  mixer module and load sample
+pygame.init()
+sample = pygame.mixer.Sound('../assets/plop.wav')
+sample.play()
+
+
+# play sequence
+# TODO loop through time durations ans play sample
+# use sample.play and time.sleep
+
+
+# ensure sample playback is finished
+time.sleep(sample.get_length())

@@ -40,3 +40,6 @@ for time_dur in time_durations:
     # play sample and pause according to time duration
     sample.play()
     time.sleep(time_dur)
+
+# ensure sample playback is finished
+time.sleep(sample.get_length())

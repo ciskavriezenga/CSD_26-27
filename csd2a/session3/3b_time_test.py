@@ -1,5 +1,5 @@
 import time
-"""
+
 # Using time.sleep in a forloop does not guarantee exactly 1 sec.
 t = time.time()
 
@@ -9,7 +9,7 @@ for i in range(10):
     time.sleep(1)
 
 
-"""
+
 """
 # This results in a cumulative error
 zero_time = time.time()
@@ -20,6 +20,7 @@ for i in range(10):
 
 
 
+"""
 """
 # differences between short and long time.sleep durations
 test_durations = [0.1, 1.0, 10.0]
@@ -46,7 +47,7 @@ for index, mean in enumerate(means):
     print("Duration:", test_durations[index])
     print("Mean deviation:", mean)
 
-
+"""
 """
 Mean time deviation test 0
 Duration: 0.1

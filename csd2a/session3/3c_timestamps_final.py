@@ -1,7 +1,7 @@
 import pygame
 import time
 
-# set values and create lists necessary for playing rhythm
+# hardcoded note_durations and bpm for the sake of the example
 note_durations = [1, 0.5, 1, 0.5, 0.5]
 bpm = 120
 print("note_durations:", note_durations)
@@ -46,10 +46,10 @@ print("time zero:", time_zero)
 
 # iterate through time sequence and play sample
 while True:
-    now = time.time() - time_zero
+    t_delta = time.time() - time_zero
     # check if we passed the next timestamp,
     # if so, play sample and fetch new timestamp
-    if(now >= ts):
+    if(t_delta >= ts):
         sample.play()
         if timestamp_seq:
             ts = timestamp_seq.pop(0)
