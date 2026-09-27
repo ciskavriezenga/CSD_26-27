@@ -56,7 +56,7 @@ while True:
         else:
             # no new timestamp available --> break while loop
             break
-
+    
     time.sleep(0.001)
 
 # wait till last sample is done playing before exit

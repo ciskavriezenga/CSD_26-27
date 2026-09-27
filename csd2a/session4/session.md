@@ -5,14 +5,26 @@ See the **git_command_line_overview.md** in main folder regarding the essential 
 Also see https://education.github.com/git-cheat-sheet-education.pdf
 
 Number of commits per week should be a lot higher.
-_"Collecting commits after 09-15-2025"_   _//15 sep._
+_"Collecting commits after 2026-09-14"_   _//14 sep._
 ```
+VAAK
 2x geen repo url per mail ontvangen ...
 3x 0
 1x 1
 1x 3
 1x 4
 ```
+```
+NU:
+1x geen repo
+2x 2
+1x 3
+2x 5
+1x 7
+1x 8
+1x 10
+```
+
 Reminder for those who do not use git (often enough) yet; we are using git because of:
 - learning to work with version control
 - insight in process
@@ -21,6 +33,7 @@ Reminder for those who do not use git (often enough) yet; we are using git becau
   - provide evidence against plagiarism
 
 Therefore, **git is mandatory --> no git / no proper git workflow --> no final grade**. See "beoordelingscriteria.pdf" in main folder.
+
 
 NOTE: Do not worry if you still find Git a hurdle. Since working with git is new to many of you, we are bit more forgiving and understanding this first second year course.
 
@@ -52,10 +65,10 @@ NOTE: Do not worry if you still find Git a hurdle. Since working with git is new
      ```python
      retrieve_time_durations(note_durations)
      ```
-  - **Example 4b** - in the final assignments we often see the two functions `to_time_dur` and `to_timestamp_seq` combined in one function. Why could hat be considered as _bad practice_?
+  - **Example 4b** - in the final assignments we often see the two functions `to_time_dur` and `to_timestamp_seq` combined in one function. Why could that be considered as _bad practice_?
 
 ### Dictionary
-  - csd2a/slides/Sessie_4-Events.pdf _@D: for now, skip the other data structures slides_
+  - csd2a/slides/Sessie_4-Events.pdf
 
   - **Example 4c** Demonstrates the usage of a dictionary for an event. By using dictionaries, you can combine the timestamp, reference to a sample, duration and other values in one data structure (a data structure refers to a type of container, like a list, a set, a queue, a dictionary). Using a dictionary for an event instead of a list allows you to retrieve the values by using keys. This improves readability, see the example below.
 
@@ -76,7 +89,6 @@ NOTE: Do not worry if you still find Git a hurdle. Since working with git is new
   timestamp = event["timestamp"]
   ```
   - **Example 4d** Example demonstrating how to sort a list with dictionaries
-  _@D: short in time? skip this!_
 
   - **Example 4e** Contains an introduction to dictionaries - intended for self-study, **see opdrachten.md**
-  - - **Example 4f** Contains an example where a function creates and returns a dictionary  - intended for self-study, **see opdrachten.md**
+  - **Example 4f** Contains an example where a function creates and returns a dictionary  - intended for self-study, **see opdrachten.md**

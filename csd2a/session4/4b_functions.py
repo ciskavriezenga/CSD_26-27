@@ -1,6 +1,12 @@
 import pygame
 import time
 
+"""
+NOTE:
+Comments below are too detailed for 'production code'
+Extensive comments for the sake of learning.
+"""
+
 
 # init  mixer module and load sample
 pygame.init()
@@ -29,7 +35,7 @@ def to_timestamp_seq(src_seq):
     dst_seq = []
     timestamp = 0
     # iterate through the source sequence, sum durations and store these as
-    # timestamp in the destination Sequence
+    # timestamp in the destination sequence
     for time_dur in src_seq:
         dst_seq.append(timestamp)
         timestamp += time_dur
