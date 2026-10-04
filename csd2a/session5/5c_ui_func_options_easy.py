@@ -1,7 +1,4 @@
-
-
-example_question = "Choose your samplepack: "
-example_options = ["ducksounds", "regular drumkit"]
+# Example with basic ui function to retrieve user selection for given options
 
 def retrieve_user_option(question, options):
     """
@@ -53,6 +50,10 @@ def retrieve_user_option(question, options):
         selected_option -= 1
 
     return selected_option
+
+
+example_question = "Choose your samplepack: "
+example_options = ["ducksounds", "regular drumkit"]
 
 selected_index = retrieve_user_option(example_question, example_options)
 print("Selected drumkit: ", example_options[selected_index])

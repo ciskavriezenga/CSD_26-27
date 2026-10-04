@@ -1,13 +1,7 @@
 # Session 6
 
-## hoe gaat het?
+## Hoe gaat het?
 
-## Deliverables e.d.
-- alles duidelijk?
-- presentatie verwachtingen
-- beoordelingscriteria
-
-
-## UI
-
-## MIDI
+## Presentaties?
+## Meekijken?
+## Vragen?

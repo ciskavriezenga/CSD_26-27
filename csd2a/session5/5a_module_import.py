@@ -1,4 +1,4 @@
-import user_name_module 
+import user_name_module
 
 user_name = user_name_module.get_user_name()
 

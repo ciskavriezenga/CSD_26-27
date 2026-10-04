@@ -6,6 +6,7 @@ cast_functions = {
     "string": str
 }
 
+
 def validate_input_type(input_value, expected_type):
     """
     parameter input_value: an input string to validate
