@@ -5,7 +5,7 @@ TODO
 • How can you replace line 17 - 27 with one line by using a dictionary?
 • Is line 34 redundant? Why?
 • line 23 and 26, a lot of space characters, what about using \t?
-• why is the forloop not efficient? How could this be improved? 
+• why is the forloop not efficient? How could this be improved?
 """
 
 

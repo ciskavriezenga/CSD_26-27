@@ -12,10 +12,11 @@ def iterateThroughTimestamps(events, all_timestamps):
 
     # Initialize a dictionary to keep track of played events
     played_events = {}
-
-# ====== COMMENTS =====
-# COMMENTS --> why 'time to sleep'? It is clear if you continue to read the code, but not instantly clear.
-# therefore a comment would save time by clarifying the usage of time_to_sleep
+"""
+====== COMMENTS =====
+COMMENTS --> why 'time to sleep'? It is clear if you continue to read the code, but not instantly clear.
+therefore a comment would save time by clarifying the usage of time_to_sleep
+"""
 
     # Iterate through each timestamp and calculate time to sleep
     for timestamp in all_timestamps:

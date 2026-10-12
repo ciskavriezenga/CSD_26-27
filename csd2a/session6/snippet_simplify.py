@@ -6,13 +6,17 @@ SNIPPETS - EXAMPLES OF DUPLICATE CODE, 'BAD' PRACTICE, COMMENTS ETC.
 # SIMPLIFY
 # ===== EXAMPLE 1 =======
 # code below could be replaced by using a list as a sort of look up table:
-"""
+
 kicks_blueprint = [[3], [4], [4, 1], [4, 2], [7]]
-if meter >= 3 and meter <= 7: 
-    # shift meter value to index, meter 3 starts at index 0
-    kicks.append(kicks_blueprint[meter - 3]) 
-else: 
+if meter >= 3 and meter <= 7:
+    # shift meter value to index of blueprint list
+    # thus meter 3 --> index 0, meter 7 --> index 4
+    kicks.append(kicks_blueprint[meter - 3])
+else:
     kicks.append(-5)
+    meter -= 5
+
+
 """
 
 
@@ -48,3 +52,4 @@ def generate_kick_snare(meter):
     random.shuffle(kicks) # shuffles kicks
 
 
+"""

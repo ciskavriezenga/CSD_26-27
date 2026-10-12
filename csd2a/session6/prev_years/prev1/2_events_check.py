@@ -3,7 +3,7 @@
 NOTES:
 • greg variable = number of beats in a bar
 
-TODO 
+TODO
 • SEARCH FOR:
     • unnecessary forloop & checks
     • what is 'targetTime', does that actually correspond to a 'sample to play'?

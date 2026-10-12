@@ -18,6 +18,8 @@ print("Done")
 
 
 
+
+
 # ===== EXAMPLE 2 =======
 def defineEvents():
     hihat = sa.WaveObject.from_wave_file(
@@ -65,3 +67,31 @@ def defineEvents():
 
     return events
 
+
+
+"""
+# More generic version of the above, but still not a proper event ...
+
+sample_file_paths = ["/Users/x/HKU/Jaar2/CSD2/CSD_23-24/blok2a/assets/hihat.wav",
+                "/Users/x/HKU/Jaar2/CSD2/CSD_23-24/blok2a/assets/hihat.wav",
+                "/Users/x/HKU/Jaar2/CSD2/CSD_23-24/blok2a/assets/hihat.wav"]
+sample_names = ["kick", "hihat", "snare"]
+
+def defineEvent(sample_file_path, sample_name):
+    sample = sa.WaveObject.from_wave_file(sample_file_path)
+    return {
+        "noteDurations": [],
+        "timestamps16th": [0.0],
+        "timestampsMs": [],
+        "instrumentname": sample_name,
+        "instrument": sample,
+        "velocity": 82,
+        "duration": 100,
+    }
+
+
+events = []
+for index, sample_path in enumerate(sample_file_paths):
+    event = defineEvent(sample_path, sample_names[index])
+    events.append(event)
+"""
