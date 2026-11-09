@@ -2,15 +2,17 @@
 
 ## Voorbereiding gelukt?
 _Gpp, IDE & cmake al vooraf aan het blok werkend gekregen?_
-_Zie voorbereiding folder_
+_Zie voorbereiding folder_ 
+
+_**Afwezig tijdens vorige practicum --> dan dit practicum oppakken!**_
 
 
-</br>
+<br></br>
 
 ## Introductie Slides
 _Zie ../slides/Sessie1_introductie.pdf_
 
-</br>
+<br></br>
 
 ## Van Python over op C++
 Interpreteren versus compileren
@@ -18,10 +20,10 @@ Interpreteren versus compileren
 - Wanneer is wat handig?
 _Zie ook https://dinkum.nl/software/cplusplus/doc/project_building/compiling_and_linking.html_
 
-</br>
+<br></br>
 
 ## Introductie C++
-_Voor het compilen zie compilen.md_
+_Voor het compilen zie `compilen.md`._
 ##### 1_hello
 
   Een heel basale applicatie met main, iostream and string includes,
@@ -40,4 +42,7 @@ _Voor het compilen zie compilen.md_
   _Zie ../slides/Sessie1_inheritance.pdf_
 
 
-## NOTE: voorbeeld 4 is bedoeld voor zelfstudie, zie ../assignments/1_assignments.md
+### NOTE: voorbeeld 4 is bedoeld voor zelfstudie, zie ../assignments/1_assignments.md
+
+
+

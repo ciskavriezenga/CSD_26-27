@@ -14,7 +14,8 @@ Voeg de Melody en Note class uit _session4/1_melody toe aan je eindopdracht, of 
 Voeg de class UIUtilities uit _session4/3_enum_choices toe aan je eigen project en gebruik deze om user input op te vragen.  
 
 
+### 3. Repo op orde brengen 
+Zie ./4_CleanYourRepo.md
 
-
-### 3. Eindopdracht 
+### 4. Eindopdracht 
 Werk verder aan de eindopdracht. 
