@@ -1,3 +1,0 @@
-add_subdirectory(session3)
-add_subdirectory(session4)
-add_subdirectory(session5)

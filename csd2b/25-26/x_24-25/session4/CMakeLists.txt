@@ -1,4 +1,0 @@
-add_subdirectory(01_override)
-add_subdirectory(02_override_callFromBase)
-add_subdirectory(03_sineSquareSaw)
-add_subdirectory(04_sineSquareSaw_Final)
