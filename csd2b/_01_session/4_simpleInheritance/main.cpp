@@ -1,6 +1,11 @@
 #include "dog.h"
 #include "cat.h"
 
+/* Session content
+ * See _slides/Sessie1_inheritance.pdf
+ */
+
+
 int main ()
 {
   Pet aPet("Peter");

@@ -1,5 +1,17 @@
 #include <iostream>
 
+
+/* Session content
+ * [DISCUSS]
+ * - Associaton: a class can contain a field which itself is an object of another class, e.g.:
+ *   - a speaker has a tweeter
+ *   - a car has wheels
+ *   - ...?
+ * - concept of constructor, fields en methods
+ */
+
+
+
 class Tweeter{
 public:
   // default constructor

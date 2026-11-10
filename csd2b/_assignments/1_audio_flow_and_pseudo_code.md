@@ -2,13 +2,15 @@
 
 **Voorbeelden en referenties**
 - gestandaardiseerde audio diagram elementen:
-  <img src="./2_audio_diagram_standardized_elements.png">
+
+<br>
+  <img src="./1_audio_diagram_standardized_elements.png" alt=“”>
 
   image from https://econtact.ca/17_4/austin_synthesis.html
 
 - Voorbeeld van een oscillator en een envelope
 
-  <img src="./2_Envelope_audio_diagram_example.png">
+  <img src="./1_Envelope_audio_diagram_example.png" alt=“”>
 
   In pseudo code:
 
@@ -21,7 +23,7 @@
 
   Dezelfde audio flow, andere ook veelvoorkomende stijl, met verder als verschil dat hier de amplitude als onderdeel van de oscillator gezien wordt:
 
-  <img src="./2_Envelope_audio_diagram_example_2.png">
+  <img src="./1_Envelope_audio_diagram_example_2.png" alt=“”>
 
   In pseudo code:
 
@@ -36,7 +38,7 @@
 
 - Voorbeeld van FM synthese in de andere audio diagram stijl.
 
-  <img src="./2_FM_audio_diagram_example.png">
+  <img src="./1_FM_audio_diagram_example.png" alt=“”>
 
   In pseudo code is dit bijvoorbeeld wanneer je amplitude niet ziet als 'onderdeel van de oscillator':
   ```

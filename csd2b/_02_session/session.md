@@ -7,7 +7,7 @@
 
 ## Content
 - ### Peer reviews
-  _max 20 min. invullen, 5 min. resultaten op een rij + bespreken eventuele herziening._  
+  _ 5 min. links delen en koppelen, max 20 min. invullen, 5 min. resultaten op een rij + bespreken eventuele herziening._  
   - peer review loodjes trekken
 
 - ### Access specifiers
