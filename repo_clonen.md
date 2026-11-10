@@ -1,7 +1,7 @@
 De CSD repository kun je lokaal klonen.
 
 ```bash
-git clone git@github.com:ciskavriezenga/CSD_26-27.git 
+git clone https://github.com/ciskavriezenga/CSD_26-27.git 
 ```
 
 Met bovenstaande 'installeer' je repo lokaal.
