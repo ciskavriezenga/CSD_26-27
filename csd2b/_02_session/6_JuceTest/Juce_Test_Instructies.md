@@ -12,7 +12,7 @@ Maak op het zelfde niveau als je JUCE map een bestandje genaamd, `CMakeLists.txt
 Typ dit daar in:
 ```cmake
 cmake_minimum_required(VERSION 3.20)
-project(CSD LANGUAGES CXX)
+project(CSD LANGUAGES C CXX)
 
 add_subdirectory(JUCE)
 add_subdirectory(csd2b)
