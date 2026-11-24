@@ -1,5 +1,5 @@
 
-project(4_sineSquareSaw_Final VERSION 0.0.1)
+project(3_sineSquareSaw_Final VERSION 0.0.1)
 juce_add_console_app(${PROJECT_NAME} PRODUCT_NAME "example")
 target_sources(${PROJECT_NAME} PRIVATE main.cpp audioToFile.cpp oscillator.cpp sine.cpp square.cpp callback.cpp)
 target_compile_definitions(${PROJECT_NAME} PRIVATE JUCE_WEB_BROWSER=0 JUCE_USE_CURL=0 SOURCE_DIR="${CMAKE_CURRENT_SOURCE_DIR}")

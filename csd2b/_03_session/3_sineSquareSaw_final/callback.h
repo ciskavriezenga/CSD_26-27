@@ -13,7 +13,9 @@ public:
   void process (AudioBuffer buffer) override;
 
 private:
-  Square oscillator;
+  Square oscillator_1;
+  Square oscillator_2;
+  Square oscillator_3;
 };
 
 #endif  //CALLBACK_H

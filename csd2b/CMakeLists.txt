@@ -1,5 +1,5 @@
-add_subdirectory(_02_session)
-#add_subdirectory(_03_session)
+#add_subdirectory(_02_session)
+add_subdirectory(_03_session)
 #add_subdirectory(_04_session)
 #add_subdirectory(_05_session)
 #add_subdirectory(_assignments)
