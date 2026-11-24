@@ -4,10 +4,10 @@
 #include <thread>
 
 
-#define WRITE_TO_FILE 0
+#define WRITE_TO_FILE 1
 
 
-int main () {
+int main (int argc, char** argv) {
   ScopedMessageThreadEnabler scopedMessageThreadEnabler;
   CustomCallback audioSource (44100);
 

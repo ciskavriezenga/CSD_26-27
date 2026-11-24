@@ -18,7 +18,3 @@ void Oscillator::tick()
   calculate();
 }
 
-void Oscillator::calculate()
-{
-  std::cout << "• Oscillator::calculate\n";
-}

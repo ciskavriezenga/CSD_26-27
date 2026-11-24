@@ -18,9 +18,14 @@ int main() {
    * because the base class calculate method is overridden in the subclass,
    * the calculate function of the subclass is called, not the baseclass.
    */
+  sine.calculate();
+  saw.calculate();
+
+  /*
+   * However ... what happens when we call tick?
+   */
   sine.tick();
   saw.tick();
-
 
   std::cout << "\nEnd main.\n";
 }

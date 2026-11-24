@@ -8,11 +8,4 @@ Square::Square (float frequency, float samplerate)
 
 Square::~Square() { std::cout << "• Square::~Square\n"; }
 
-void Square::calculate()
-{
-  if (phase < 0.5)
-  {
-    sample = 1.0f;
-  } else
-  sample = -1.0f;
-}
+void Square::calculate() {}
